@@ -68,7 +68,6 @@ I'm an IT student (diploma expected in **2027**) with a strong interest in softw
 | :--- | :--- | :--- |
 | **[TimeTracker](https://github.com/MM-Technologies-coder/TimeTracker)** | Standalone & client-server attendance tracking system: Python Flask/PyWebView shell, web frontend, high-performance C++ core with SQLite3. | `C++` `Python` `Flask` `SQLite3` |
 | **[ArtemisAI](https://github.com/MM-Technologies-coder/ArtemisAI)** | Interactive virtual assistant powered by Google Gemini, built as Project Work for Zucchetti Academy. Secure serverless proxy architecture on Vercel. | `JavaScript` `Gemini API` `Vercel` |
-| **Automation & Management Hub** *(WIP)* | Internal platform automating repetitive tasks and workflows, with clean APIs and secure client-data handling. | `Python` `Flask` `SQLite` |
 
 ---
 <!--
